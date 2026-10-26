@@ -16,7 +16,7 @@ I think I did a decent job of breaking down the client's requirements and turnin
 
 ### 3. What I Would Improve
 
-If I could go back and revise one part of my work, I would spend more time reviewing my UML diagrams and making sure the relationships and interactions were clearly represented. I would also double-check that every important requirement was reflected in the design. This would make the documents easier to understand and help avoid confusion during implementation.
+If I could go back and revise one part of my work, I would spend more time reviewing my UML diagrams. I would make sure the relationships and interactions were clearly represented. I would also double-check that every important requirement and make sure it is reflected in the design. This would make the documents easier to understand.
 
 ### 4. Understanding the User's Needs
 
@@ -24,7 +24,7 @@ I started by looking at the problems DriverPass wanted to solve, such as making 
 
 ### 5. My Approach to Software Design
 
-My approach to software design is to understand the problem before thinking about the implementation. I would start by gathering requirements, identifying the users, and understanding what each user needs from the system. Then, I would use tools such as UML diagrams to visualize the structure and behavior of the system before writing code. In future projects, I would also spend more time validating requirements, considering edge cases, and reviewing the design before moving into development. I think this helps catch problems early and makes the development process more organized.
+My approach to software design is to understand the problem. Once I ponder hard on it, I am thinking about the implementation. I would start by gathering requirements, identifying the users and understanding what each user needs from the system. Then, I would use tools such as UML diagrams to visualize the structure and behavior of the system before writing code. In future projects, I would also spend more time validating requirements, considering edge cases, and reviewing the design before moving into development. I think this helps catch problems early and makes the development process more organized.
 
 ## Skills Demonstrated
 
